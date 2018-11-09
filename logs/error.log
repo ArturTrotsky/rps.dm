@@ -1,0 +1,292 @@
+[Sun Nov 04 20:37:32.683510 2018] [php7:notice] [pid 6913] [client 127.0.0.1:36316] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 20:37:32.683579 2018] [php7:notice] [pid 6913] [client 127.0.0.1:36316] PHP Stack trace:
+[Sun Nov 04 20:37:32.683596 2018] [php7:notice] [pid 6913] [client 127.0.0.1:36316] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 20:37:32.683608 2018] [php7:notice] [pid 6913] [client 127.0.0.1:36316] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 20:57:39.218831 2018] [php7:notice] [pid 8559] [client 127.0.0.1:33500] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 20:57:39.218885 2018] [php7:notice] [pid 8559] [client 127.0.0.1:33500] PHP Stack trace:
+[Sun Nov 04 20:57:39.218897 2018] [php7:notice] [pid 8559] [client 127.0.0.1:33500] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 20:57:39.218905 2018] [php7:notice] [pid 8559] [client 127.0.0.1:33500] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 21:36:54.326783 2018] [php7:notice] [pid 8601] [client 127.0.0.1:60638] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 21:36:54.326822 2018] [php7:notice] [pid 8601] [client 127.0.0.1:60638] PHP Stack trace:
+[Sun Nov 04 21:36:54.326830 2018] [php7:notice] [pid 8601] [client 127.0.0.1:60638] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:36:54.326835 2018] [php7:notice] [pid 8601] [client 127.0.0.1:60638] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 21:37:10.366852 2018] [php7:notice] [pid 8559] [client 127.0.0.1:32794] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 22, referer: http://rps.dm/
+[Sun Nov 04 21:37:10.366890 2018] [php7:notice] [pid 8559] [client 127.0.0.1:32794] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:37:10.366902 2018] [php7:notice] [pid 8559] [client 127.0.0.1:32794] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:37:10.366908 2018] [php7:notice] [pid 8559] [client 127.0.0.1:32794] PHP   2. saveGameData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:37, referer: http://rps.dm/
+[Sun Nov 04 21:37:10.366914 2018] [php7:notice] [pid 8559] [client 127.0.0.1:32794] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:22, referer: http://rps.dm/
+[Sun Nov 04 21:37:13.578782 2018] [php7:notice] [pid 8562] [client 127.0.0.1:32872] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 22, referer: http://rps.dm/
+[Sun Nov 04 21:37:13.578803 2018] [php7:notice] [pid 8562] [client 127.0.0.1:32872] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:37:13.578809 2018] [php7:notice] [pid 8562] [client 127.0.0.1:32872] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:37:13.578813 2018] [php7:notice] [pid 8562] [client 127.0.0.1:32872] PHP   2. saveGameData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:37, referer: http://rps.dm/
+[Sun Nov 04 21:37:13.578817 2018] [php7:notice] [pid 8562] [client 127.0.0.1:32872] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:22, referer: http://rps.dm/
+[Sun Nov 04 21:49:14.134898 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 21:49:14.134950 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP Stack trace:
+[Sun Nov 04 21:49:14.134961 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:49:14.134969 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 21:49:16.799474 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 22, referer: http://rps.dm/
+[Sun Nov 04 21:49:16.799540 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:49:16.799564 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:49:16.799580 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP   2. saveGameData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:37, referer: http://rps.dm/
+[Sun Nov 04 21:49:16.799595 2018] [php7:notice] [pid 8561] [client 127.0.0.1:47846] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:22, referer: http://rps.dm/
+[Sun Nov 04 21:49:35.266069 2018] [php7:notice] [pid 8601] [client 127.0.0.1:48374] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 21:49:35.266122 2018] [php7:notice] [pid 8601] [client 127.0.0.1:48374] PHP Stack trace:
+[Sun Nov 04 21:49:35.266128 2018] [php7:notice] [pid 8601] [client 127.0.0.1:48374] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:49:35.266133 2018] [php7:notice] [pid 8601] [client 127.0.0.1:48374] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 21:49:56.556224 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 21:49:56.556299 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP Stack trace:
+[Sun Nov 04 21:49:56.556329 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:49:56.556352 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 21:50:09.349161 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 22, referer: http://rps.dm/
+[Sun Nov 04 21:50:09.349235 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:50:09.349263 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:50:09.349282 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP   2. saveGameData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:37, referer: http://rps.dm/
+[Sun Nov 04 21:50:09.349300 2018] [php7:notice] [pid 8559] [client 127.0.0.1:48986] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:22, referer: http://rps.dm/
+[Sun Nov 04 21:53:02.310174 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27
+[Sun Nov 04 21:53:02.310213 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:
+[Sun Nov 04 21:53:02.310223 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:53:02.310236 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44
+[Sun Nov 04 21:53:02.310241 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:
+[Sun Nov 04 21:53:02.310247 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:53:05.214333 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:05.214390 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:05.214412 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:05.214442 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:05.214455 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:05.214470 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:06.362398 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:06.362470 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:06.362504 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:06.362549 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:06.362570 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:06.362591 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.016607 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.016663 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.016707 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.016732 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.016743 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.016756 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.532522 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.532587 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.532616 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.532659 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.532679 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:07.532699 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.001138 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.001192 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.001218 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.001255 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.001272 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.001291 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.388832 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.388905 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.388937 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.388979 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.388997 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.389016 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.756573 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.756597 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.756608 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.756622 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.756638 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.756646 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.944178 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.944225 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.944247 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.944276 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.944288 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:08.944302 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.100087 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.100103 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.100109 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.100117 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.100120 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.100124 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.298328 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.298344 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.298350 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.298358 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.298361 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.298364 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.475533 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.475561 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.475584 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.475601 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.475608 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.475615 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.665143 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.665179 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.665194 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.665214 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.665222 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.665232 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.839084 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.839119 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.839133 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.839150 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.839157 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:09.839165 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.025552 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.025571 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.025578 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.025587 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.025591 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.025595 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.217851 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.217898 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.217919 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.217946 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.217958 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.217971 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.623795 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.623833 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.623847 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.623865 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.623873 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.623882 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.823524 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.823578 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.823600 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.823627 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.823639 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:10.823652 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:11.292564 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 21:53:11.292599 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:11.292615 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:11.292636 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:11.292661 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:11.292673 2018] [php7:notice] [pid 8562] [client 127.0.0.1:53394] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:52.413440 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 6
+[Sun Nov 04 21:53:52.413498 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Stack trace:
+[Sun Nov 04 21:53:52.413508 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:53:52.413513 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   2. getAllGamesData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:27
+[Sun Nov 04 21:53:52.413519 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:6
+[Sun Nov 04 21:53:52.413538 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Warning:  file_get_contents(games.txt): failed to open stream: No such file or directory in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 8
+[Sun Nov 04 21:53:52.413543 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Stack trace:
+[Sun Nov 04 21:53:52.413550 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:53:52.413556 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   2. getAllGamesData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:27
+[Sun Nov 04 21:53:52.413562 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   3. file_get_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:8
+[Sun Nov 04 21:53:52.413578 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44
+[Sun Nov 04 21:53:52.413584 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Stack trace:
+[Sun Nov 04 21:53:52.413589 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 21:53:56.316572 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 6, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316635 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316660 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316679 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   2. getAllGamesData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:27, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316696 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:6, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316751 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Warning:  file_get_contents(games.txt): failed to open stream: No such file or directory in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 8, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316767 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316782 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316824 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   2. getAllGamesData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:27, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316838 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   3. file_get_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:8, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316872 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316885 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 21:53:56.316899 2018] [php7:notice] [pid 8560] [client 127.0.0.1:54602] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:09.755164 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27
+[Sun Nov 04 22:26:09.755207 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:
+[Sun Nov 04 22:26:09.755218 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 22:26:09.755235 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44
+[Sun Nov 04 22:26:09.755242 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:
+[Sun Nov 04 22:26:09.755249 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 22:26:11.493774 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 22:26:11.493878 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:11.493913 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:11.493958 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 22:26:11.493984 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:11.494006 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.545918 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.545948 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.545956 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.545968 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.545972 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.545989 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.938016 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.938079 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.938102 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.938131 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.938144 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:12.938159 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:13.128882 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 22:26:13.128906 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:13.128913 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:13.128926 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 22:26:13.128932 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:13.128938 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:15.340097 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 22:26:15.340180 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:15.340215 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:15.340264 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 22:26:15.340286 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:15.340306 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.239959 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.240020 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.240049 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.240088 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.240131 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.240152 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.458990 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.459064 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.459099 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.459147 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.459172 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.459195 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.640337 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.640357 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.640364 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.640374 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.640379 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:26:16.640384 2018] [php7:notice] [pid 8585] [client 127.0.0.1:43976] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:45:13.293407 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 22:45:13.293431 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP Stack trace:
+[Sun Nov 04 22:45:13.293439 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 22:45:13.293445 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 22:45:14.882787 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 22, referer: http://rps.dm/
+[Sun Nov 04 22:45:14.882902 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:45:14.882942 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:45:14.882966 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP   2. saveGameData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:37, referer: http://rps.dm/
+[Sun Nov 04 22:45:14.883020 2018] [php7:notice] [pid 8562] [client 127.0.0.1:38790] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:22, referer: http://rps.dm/
+[Sun Nov 04 22:45:26.021619 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 22:45:26.021648 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP Stack trace:
+[Sun Nov 04 22:45:26.021657 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 22:45:26.021665 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 22:45:30.630259 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 22, referer: http://rps.dm/
+[Sun Nov 04 22:45:30.630337 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 22:45:30.630364 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 22:45:30.630382 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP   2. saveGameData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:37, referer: http://rps.dm/
+[Sun Nov 04 22:45:30.630400 2018] [php7:notice] [pid 8561] [client 127.0.0.1:39140] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:22, referer: http://rps.dm/
+[Sun Nov 04 23:06:40.941199 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 23:06:40.941225 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP Stack trace:
+[Sun Nov 04 23:06:40.941233 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 23:06:40.941239 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 23:06:42.607736 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 22, referer: http://rps.dm/
+[Sun Nov 04 23:06:42.607759 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 23:06:42.607768 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 23:06:42.607775 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP   2. saveGameData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:37, referer: http://rps.dm/
+[Sun Nov 04 23:06:42.607781 2018] [php7:notice] [pid 8601] [client 127.0.0.1:39626] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:22, referer: http://rps.dm/
+[Sun Nov 04 23:06:53.446564 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Sun Nov 04 23:06:53.446593 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP Stack trace:
+[Sun Nov 04 23:06:53.446602 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Sun Nov 04 23:06:53.446620 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Sun Nov 04 23:06:55.024655 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP Warning:  file_put_contents(games.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php on line 22, referer: http://rps.dm/
+[Sun Nov 04 23:06:55.024716 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 23:06:55.024740 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 23:06:55.024757 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP   2. saveGameData() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:37, referer: http://rps.dm/
+[Sun Nov 04 23:06:55.024773 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP   3. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/functions.php:22, referer: http://rps.dm/
+[Sun Nov 04 23:06:57.913979 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP Notice:  Undefined offset: 2 in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 27, referer: http://rps.dm/
+[Sun Nov 04 23:06:57.914068 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 23:06:57.914096 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Sun Nov 04 23:06:57.914130 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 44, referer: http://rps.dm/
+[Sun Nov 04 23:06:57.914143 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP Stack trace:, referer: http://rps.dm/
+[Sun Nov 04 23:06:57.914158 2018] [php7:notice] [pid 8559] [client 127.0.0.1:40032] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0, referer: http://rps.dm/
+[Tue Nov 06 00:27:45.400456 2018] [php7:notice] [pid 1034] [client 127.0.0.1:32920] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Tue Nov 06 00:27:45.400956 2018] [php7:notice] [pid 1034] [client 127.0.0.1:32920] PHP Stack trace:
+[Tue Nov 06 00:27:45.400967 2018] [php7:notice] [pid 1034] [client 127.0.0.1:32920] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Tue Nov 06 00:27:45.400972 2018] [php7:notice] [pid 1034] [client 127.0.0.1:32920] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Tue Nov 06 23:56:03.388062 2018] [php7:notice] [pid 1079] [client 127.0.0.1:49666] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Tue Nov 06 23:56:03.388704 2018] [php7:notice] [pid 1079] [client 127.0.0.1:49666] PHP Stack trace:
+[Tue Nov 06 23:56:03.388737 2018] [php7:notice] [pid 1079] [client 127.0.0.1:49666] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Tue Nov 06 23:56:03.388755 2018] [php7:notice] [pid 1079] [client 127.0.0.1:49666] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Fri Nov 09 23:03:35.690422 2018] [php7:notice] [pid 19782] [client 127.0.0.1:39158] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Fri Nov 09 23:03:35.690761 2018] [php7:notice] [pid 19782] [client 127.0.0.1:39158] PHP Stack trace:
+[Fri Nov 09 23:03:35.690821 2018] [php7:notice] [pid 19782] [client 127.0.0.1:39158] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Fri Nov 09 23:03:35.690830 2018] [php7:notice] [pid 19782] [client 127.0.0.1:39158] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
