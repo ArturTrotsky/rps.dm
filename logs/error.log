@@ -290,3 +290,7 @@
 [Fri Nov 09 23:03:35.690761 2018] [php7:notice] [pid 19782] [client 127.0.0.1:39158] PHP Stack trace:
 [Fri Nov 09 23:03:35.690821 2018] [php7:notice] [pid 19782] [client 127.0.0.1:39158] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
 [Fri Nov 09 23:03:35.690830 2018] [php7:notice] [pid 19782] [client 127.0.0.1:39158] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18
+[Fri Nov 16 19:18:02.017910 2018] [php7:notice] [pid 21539] [client 127.0.0.1:51978] PHP Warning:  file_put_contents(player-index.txt): failed to open stream: Permission denied in /home/artur/Dropbox/workspace/rps.dm/public_html/index.php on line 18
+[Fri Nov 16 19:18:02.017961 2018] [php7:notice] [pid 21539] [client 127.0.0.1:51978] PHP Stack trace:
+[Fri Nov 16 19:18:02.017972 2018] [php7:notice] [pid 21539] [client 127.0.0.1:51978] PHP   1. {main}() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:0
+[Fri Nov 16 19:18:02.017982 2018] [php7:notice] [pid 21539] [client 127.0.0.1:51978] PHP   2. file_put_contents() /home/artur/Dropbox/workspace/rps.dm/public_html/index.php:18

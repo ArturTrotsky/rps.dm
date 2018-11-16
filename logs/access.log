@@ -64,3 +64,5 @@
 127.0.0.1 - - [06/Nov/2018:23:56:03 +0200] "GET /favicon.ico HTTP/1.1" 404 497 "http://rps.dm/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
 127.0.0.1 - - [09/Nov/2018:23:03:35 +0200] "GET / HTTP/1.1" 200 614 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
 127.0.0.1 - - [09/Nov/2018:23:03:35 +0200] "GET /favicon.ico HTTP/1.1" 404 497 "http://rps.dm/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+127.0.0.1 - - [16/Nov/2018:19:18:02 +0200] "GET / HTTP/1.1" 200 614 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+127.0.0.1 - - [16/Nov/2018:19:18:02 +0200] "GET /favicon.ico HTTP/1.1" 404 497 "http://rps.dm/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
